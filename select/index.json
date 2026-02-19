@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "WORLD ORDER \"WORLD ORDER\"",
+  "base_artist": "WORLD ORDER",
+  "createdAt": "2026-02-19T06:28:01.481299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Old Soul Song (for The New World Order)",
+      "artist": "Bright Eyes",
+      "has_synced": true,
+      "path": "select/01_Old_Soul_Song_(for_The_New_World_Order)_Bright_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slaves of the New World Order",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/02_Slaves_of_the_New_World_Order_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New World Order",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/03_New_World_Order_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New World Order",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/04_New_World_Order_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New World Order",
+      "artist": "Megadeth",
+      "has_synced": false,
+      "path": "select/05_New_World_Order_Megadeth.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New World Order (Demo)",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/06_New_World_Order_(Demo)_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New World Order [Demo]",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/07_New_World_Order_[Demo]_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New World Order (demo)",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/08_New_World_Order_(demo)_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dru World Order (Interlude) [Dedicated to Dru Hill]",
+      "artist": "Sisqó",
+      "has_synced": true,
+      "path": "select/09_Dru_World_Order_(Interlude)_[Dedicated_to_Dru_Hill]_Sisqó.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New World Order",
+      "artist": "Onesidezero",
+      "has_synced": true,
+      "path": "select/10_New_World_Order_Onesidezero.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "New World Order",
+      "artist": "Curtis Mayfield",
+      "has_synced": true,
+      "path": "select/11_New_World_Order_Curtis_Mayfield.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New World Order [bonus track]",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/12_New_World_Order_[bonus_track]_Megadeth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WORLD ORDER",
+      "artist": "WORLD ORDER",
+      "has_synced": false,
+      "path": "select/pl_01_WORLD_ORDER_WORLD_ORDER.txt"
+    }
+  ]
+}
